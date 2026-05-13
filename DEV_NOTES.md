@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Fixed minor edge case in input handling
+
+## 2026-05-13
+- Resolved deprecation warnings
+- Added basic retry logic for network requests
